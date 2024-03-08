@@ -1,0 +1,4 @@
+resume,sentiment
+"""I continue working normally in my task""", neutral
+"""This whole week I am stalled in my task, therefore I need support from a senior developer or a project owner""", negative
+"""With a great confidence which I am delivering my task on the time frame requested""", positive

@@ -1,0 +1,50 @@
+resume,sentiment
+"""I keep working normally in my task""", neutral
+"""Since yesterday I am stalled in my task, therefore I need support from a senior developer""", negative
+"""With a great confidence which I will delivery my task inside the time frame requested""", positive
+"""Since has not any changes on task´s scope, I will delivery the task on the planned time""", positive
+"""After a new requirement arrived after I had started my task, is with great regret which I inform the delay on delivery of the given task""", negative
+"""With a paused task, I am free to initiate other task""", neutral
+"""This task is such a easy task to be accomplished, therefore I will delivery it by tomorrow""", positive
+"""My task keep in an ongoing status""", neutral
+"""By not having any surprise, I keep doing normally my task""", neutral
+"""After I better understood the requirements, I am better performing my task""", positive
+"""With support from the other team member, I am able to advance in my task and probably by tomorrow I will make the delivery""", positive
+"""I am doing my task""", neutral
+"""Since I have doubts, I am blocked to make my task""", negative
+"""After the previous meeting, I had my doubts saned, therefore I will continues my duties normally""", positive
+"""By not foreseeing any issue, my task progress is advancing to a delivery soon""", positive
+"""I keep doing my task""", neutral
+"""I am doing my job""", neutral
+"""By reading the official documentation, I was able to setup the environment and start my task normally""", positive
+"""I had encountered the right location where to apply the changes required for my task""", positive
+"""I feel lost in my task, I really need support""", negative
+"""Since was not given support, I am struggling in find the right direction on my task""", negative
+"""I already worked with this process before, therefore I know where I must do my changes""", positive
+"""This task is not different from the previous, so I will work normally""", positive
+"""Both tasks are good""", neutral
+"""I never saw a more difficult task before, I am still figuring out the steps need to implement the requirements on this task""", negative
+"""I am working on the task""", neutral
+"""The evidences given are the necessary to me perform my task normally""", positive
+"""By lacking errors proofs, I can not make a better analises on the task""", negative
+"""I never worked with this process before""", negative
+"""I already worked with this process before, I know exactly where to do my work""", positive
+"""I am doing my task""", neutral
+"""I continue doing my task""", neutral
+"""I have experience on this process, this ticket is easy to be made""", positive
+"""This process has several unplanned steps, this represents a risk for the task"""", negative
+"""I am keeping working""", neutral
+"""I have some distractions, therefore I did not made any progress on my task""", negative
+"""I don't know how to set this process, I am stalled with my task""", negative
+"""In my previous employer I already made this task, I can make it""", positive
+"""This task is easy""", positive
+"""I never had seen a harder task""", negative
+"""Knowone knows how this works, neither me""", negative
+"""I am totally lost in my task""", negative
+"""Normal working day""", neutral
+"""I see a lot of complex structures which don't helps on the task´s progress""", negative
+"""One more working day""", neutral
+"""I am good with this""", positive
+"""With the delivery of my task without any surprise, I am ready to start other task""", positive
+"""This task uses a different type of architecture which I am not familiarized with, therefore I see limitation in execute this task""", negative
+"""I still see myself doing this task""", neutral
